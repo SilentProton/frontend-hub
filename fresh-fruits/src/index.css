@@ -1,1 +1,22 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+@theme {
+  --color-primary: #de2c4d;
+  --color-secondary: #fb923c;
+
+  --font-poppins: "Poppins", sans-serif;
+  --font-averia: "Averia Serif Libre", serif;
+
+    /* Container padding */
+  --container-padding: 1rem;
+  --container-padding-sm: 2rem;
+  --container-padding-lg: 4rem;
+  --container-padding-xl: 5rem;
+  --container-padding-2xl: 6rem;
+}
+
+
+body {
+  font-family: var(--font-poppins);
+}
