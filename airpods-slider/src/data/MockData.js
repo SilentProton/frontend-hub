@@ -28,27 +28,30 @@ export const NavbarData = [
 export const HeadphoneData = [
     {
         id: 1,
+        image: Img1,
         title: "Apple AirPods Wireless Over-Ear Headphones",
         subtitle: 
-            "Experience next-level sound with Apple AirPods Wireless Over-Ear Headphones, designed to deliver immersive spatial audio, powerful noise cancellation, and all-day comfort. With seamless connectivity across your Apple devices and premium build quality, they bring clarity, style, and performance together in one perfect fit.",
+            "Experience immersive sound with Apple AirPods Wireless Over-Ear Headphones, featuring spatial audio, noise cancellation, and all-day comfort. Seamlessly connect across Apple devices with premium clarity and style.",
         price: "$40.99",
         model: "AirPods",
         bgColor: "#e85950",
     },
     {
         id: 2,
+        image: Img2,
         title: "Apple AirPods Wireless Over-Ear Headphones",
         subtitle: 
-            "Experience next-level sound with Apple AirPods Wireless Over-Ear Headphones, designed to deliver immersive spatial audio, powerful noise cancellation, and all-day comfort. With seamless connectivity across your Apple devices and premium build quality, they bring clarity, style, and performance together in one perfect fit.",
+            "Experience immersive sound with Apple AirPods Wireless Over-Ear Headphones, featuring spatial audio, noise cancellation, and all-day comfort. Seamlessly connect across Apple devices with premium clarity and style.",
         price: "$40.99",
         model: "AirPods",
         bgColor: "#24b4bc",
     },
     {
-        id: 1,
+        id: 3,
+        image: Img3,
         title: "Apple AirPods Wireless Over-Ear Headphones",
         subtitle: 
-            "Experience next-level sound with Apple AirPods Wireless Over-Ear Headphones, designed to deliver immersive spatial audio, powerful noise cancellation, and all-day comfort. With seamless connectivity across your Apple devices and premium build quality, they bring clarity, style, and performance together in one perfect fit.",
+            "Experience immersive sound with Apple AirPods Wireless Over-Ear Headphones, featuring spatial audio, noise cancellation, and all-day comfort. Seamlessly connect across Apple devices with premium clarity and style.",
         price: "$40.99",
         model: "AirPods",
         bgColor: "#7aa10e",
