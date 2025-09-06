@@ -11,10 +11,10 @@
 }
 
 /* Container styles */
-/* .container {
+.container {
   margin-inline: auto;
   padding: 1rem;
-} */
+}
 
 body {
   font-family: var(--font-sans);
