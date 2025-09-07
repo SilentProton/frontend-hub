@@ -42,7 +42,7 @@ export const HeadphoneData = [
         title: "Apple AirPods Wireless Over-Ear Headphones",
         subtitle: 
             "Experience immersive sound with Apple AirPods Wireless Over-Ear Headphones, featuring spatial audio, noise cancellation, and all-day comfort. Seamlessly connect across Apple devices with premium clarity and style.",
-        price: "$40.99",
+        price: "$50.99",
         model: "AirPods",
         bgColor: "#24b4bc",
     },
@@ -52,7 +52,7 @@ export const HeadphoneData = [
         title: "Apple AirPods Wireless Over-Ear Headphones",
         subtitle: 
             "Experience immersive sound with Apple AirPods Wireless Over-Ear Headphones, featuring spatial audio, noise cancellation, and all-day comfort. Seamlessly connect across Apple devices with premium clarity and style.",
-        price: "$40.99",
+        price: "$100.99",
         model: "AirPods",
         bgColor: "#7aa10e",
     },
