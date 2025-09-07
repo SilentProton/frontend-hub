@@ -10,7 +10,7 @@ const Navbar = () => {
         <motion.div
             initial={{opacity: 0}}
             animate={{opacity: 1}}
-            transition={{duration: 1, delay}}
+            transition={{duration: 1}}
             className="container flex justify-between items-center">
             <div className='flex items-center gap-2 text-3xl font-semibold'>
                 <FaApple/>
