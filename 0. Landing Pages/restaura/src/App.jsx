@@ -3,6 +3,7 @@ import Navbar from './components/Navbar'
 import Dishes from './components/Dishes'
 import About from './components/About'
 import Mission from './components/Mission'
+import Expertise from './components/Expertise'
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <Dishes/>
       <About/>
       <Mission/>
+      <Expertise/>
     </main>
   )
 }
